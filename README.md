@@ -1,0 +1,1 @@
+Membres du groupes : Hugo DEGARDIN, Thomas DUCOULOMBIER, Maxime FEBURIER, Laura GONCALVES, Lucas TAVERNIER
