@@ -14,6 +14,9 @@ public class YouTubeTest {
         System.setProperty("webdriver.chrome.driver", "//usr//bin//chromedriver");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--headless");
+        options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--ignore-ssl-errors=yes");
+        options.addArguments("--ignore-certificate-errors");
         driver = new ChromeDriver(options);
     }
 
